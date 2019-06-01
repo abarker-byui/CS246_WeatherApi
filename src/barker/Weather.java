@@ -15,7 +15,7 @@ import com.google.gson.Gson;
 public class Weather {
     private static final String CURRENT_URL = "https://api.openweathermap.org/data/2.5/weather";
     private static final String FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast";
-    private static final String API_KEY = "aeb003a19c3ab9cbdd8722f3ba899b40";
+    private static final String API_KEY = "_FILLER_";
     private static Scanner _scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
